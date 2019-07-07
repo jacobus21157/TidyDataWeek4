@@ -65,4 +65,4 @@ The merge_train_test data table is reduced using grepl to only contain the mean 
 The activitySubject for each observation is added using a merge between the meanAndStd and activity_labels tables into meansAndStdActivities
 
 ## Creating tidyData
-The new tidy data set (tidyData) is created by aggrigating the meansAndStdActivities table by subjectID and activitiySubject and collapsing the variables into a mean value for each subject and activity. The tidyData table is then written to the tidyData.txt file.
+The new tidy data set (tidyData) is created by aggregating the meansAndStdActivities table by subjectID and activitiySubject and collapsing the variables into a mean value for each subject and activity. The tidyData table is then written to the tidyData.txt file.
