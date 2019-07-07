@@ -12,25 +12,25 @@ The data repository for this project is: https://d396qusza40orc.cloudfront.net/g
 
 The data set consists of several data files:
 * Main
-** activity_labels: Six labels for the activities
-*** Walking
-*** Walking_Upstairs
-*** Walking_downstairs
-*** Sitting
-*** Standing
-*** Laying
-** features: The names of the variables observed (561 labels)
-** features_info: Descriptive file of the data
+  * activity_labels: Six labels for the activities
+    * Walking
+    * Walking_Upstairs
+    * Walking_downstairs
+    * Sitting
+    * Standing
+    * Laying
+  * features: The names of the variables observed (561 labels)
+  * features_info: Descriptive file of the data
 
 * Test
-** subject_test: for each observation, the ID number of the subject (1-30)
-** X_test: main data set 2947 observations of 561 variables
-** y_test: The activity number for each of the observations
+  * subject_test: for each observation, the ID number of the subject (1-30)
+  * X_test: main data set 2947 observations of 561 variables
+  * y_test: The activity number for each of the observations
 
 * Training
-** subject_test: for each observation, the ID number of the subject (1-30)
-** X_test: main data set 7352 observations of 561 variables
-** y_test: The activity number for each of the observations
+  * subject_test: for each observation, the ID number of the subject (1-30)
+  * X_test: main data set 7352 observations of 561 variables
+  * y_test: The activity number for each of the observations
 
 ## Processing the Data
 ### Tasks for the Project
