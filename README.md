@@ -11,11 +11,14 @@ For the script to run properly, the data needs to be unzipped to a subfolder nam
 ## Files:
 CodeBook.md describes the variables, the data, and transformations or other work that performed to clean up the data.
 
-run_analysis.R contains the R code needed to process the data to acheive the five tasks required for this project:
+run_analysis.R contains the R code needed to process the data to achieve the five tasks required for this project:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-tidyData.txt is the second, independent data set with the average (mean) of each variable, ordered by activity and subject.
+tidyData.txt is the second, independent data set with the average (mean) of each variable, ordered by activity and subject
+
+## Test
+This is a test sentence to see if GitHub on Atom works.
